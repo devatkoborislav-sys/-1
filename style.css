@@ -1,0 +1,53 @@
+body{ 
+/* background-image: url(./composition-with-white-roses-mother-s-day_23-2147612505.avif);
+background-repeat:no-repeat;
+background-position: center;
+background-size: cover; */
+
+background:url(./composition-with-white-roses-mother-s-day_23-2147612505.avif) no-repeat center/cover;
+height: 100vh;
+overflow: hidden;
+
+display: flex;
+justify-content:center ;
+align-items: center;
+
+font-family: "Science Gothic", sans-serif;
+
+}
+
+.card { 
+background-color:red ;
+max-width: 400px;
+text-align: center;
+border-radius: 10px ;
+
+
+
+
+}
+
+.card-header { 
+background-color: #81d2e3;
+padding: 20px 30px 25px 35px;
+border-top-left-radius: 10px;
+
+
+
+
+
+
+}
+
+.card-body {}
+
+.card-footer {}
+
+.card-btn {}
+
+
+
+
+
+
+
